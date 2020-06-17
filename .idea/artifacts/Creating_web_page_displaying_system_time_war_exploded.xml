@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Creating-web-page-displaying-system-time:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Creating_web_page_displaying_system_time_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Creating-web-page-displaying-system-time/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Creating-web-page-displaying-system-time" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
